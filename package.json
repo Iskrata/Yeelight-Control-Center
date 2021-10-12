@@ -9,7 +9,7 @@
   "author": "Iskren",
   "license": "MIT",
   "dependencies": {
-    "electron": "^7.1.10",
+    "electron": "^11.5.0",
     "node-yeelight-wifi": "^0.1.4",
     "yeelight.io": "^1.1.2"
   }
